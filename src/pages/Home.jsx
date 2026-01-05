@@ -42,7 +42,7 @@ const Home = () => {
           Premium Residential Construction
         </p>
         <h1 className="font-heading text-4xl leading-tight md:text-6xl">
-          Nisha Enterprises
+          perfect building contractor
         </h1>
         <p className="text-lg text-gray-200 md:text-xl">
           Premium residential construction &amp; interior solutions built with

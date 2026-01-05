@@ -1,9 +1,9 @@
 export const company = {
-  name: 'Nisha Enterprises',
-  phone: '80802 40577',
-  whatsappLink: 'https://wa.me/918080240577?text=Hello%20Nisha%20Enterprises',
-  email: 'build@nishaenterprises.com',
-  address: 'Qamar Park, Bhayandar East, Mira Bhayandar, Maharashtra - 401105 , building no A/2 102 ',
+  name: 'perfect building contractor',
+  phone: '9820922102, 9022588243',
+  whatsappLink: 'https://wa.me/919820922102?text=Hello%20perfect%20building%20contractor',
+  email: 'perfectcontractor39@gmail.com',
+  address: '2, bachubhai chawl, rani sati marg, mskrani pada, Malad(E), Mumbai - 400 097',
 }
 
 export const navigationLinks = [
@@ -49,8 +49,8 @@ export const sliderCategories = [
 ]
 
 export const counters = [
-  { label: 'Projects Completed', value: 400, suffix: '+' },
-  { label: 'Years of Experience', value: 8, suffix: '+', duration: 1400 },
+  { label: 'Projects Completed', value: 150, suffix: '+' },
+  { label: 'Years of Experience', value: 52, suffix: '+', duration: 1400 },
   { label: 'Happy Clients', value: 95, suffix: '%' },
   { label: 'Cities Covered', value: 6, suffix: '' },
 ]
@@ -72,13 +72,13 @@ export const testimonials = [
   {
     quote:
       'The team obsessively tracked every detail—from gypsum lines to final styling. They delivered beyond our expectations.',
-    name: 'Prakash N. — Baner',
+    name: 'Prakash N.',
     role: 'Luxury Duplex',
   },
   {
     quote:
-      'Seamless coordination, transparent costing, and flawless finishes. Nisha Enterprises is now our go-to partner.',
-    name: 'Kavya & Arjun',
+      'Seamless coordination, transparent costing, and flawless finishes. perfect building contractor is now our go-to partner.',
+    name: 'Rajesh N.',
     role: 'Interior Design',
   },
   {
@@ -91,35 +91,34 @@ export const testimonials = [
 
 export const services = [
   {
-    id: 'pop',
-    title: 'P.O.P Specialist',
+    id: 'civil-work',
+    title: 'Civil Interior Decorator Work',
     description:
-      'Crisp gypsum board profiles, layered lighting pockets, and premium paint-ready surfaces.',
+      'Complete civil construction and interior decoration services with modern design concepts and quality craftsmanship.',
   },
   {
-    id: 'gypsum',
-    title: 'Gypsum Work',
+    id: 'plumbing',
+    title: 'Plumbing Services',
     description:
-      'High-strength partitions and coves fabricated with laser-aligned framing and seamless joints.',
+      'Professional plumbing installation, repair, and maintenance for residential and commercial properties.',
   },
   {
-    id: 'false-ceiling',
-    title: 'False Ceiling',
+    id: 'waterproofing',
+    title: 'Waterproofing Works',
     description:
-      'Acoustic, suspended, and designer ceilings with integrated lighting, vents, and service access.',
+      'Advanced waterproofing solutions for roofs, terraces, bathrooms, and basements to prevent water damage.',
   },
   {
     id: 'renovations',
-    title: 'Renovations',
+    title: 'Building Renovations',
     description:
-      'Structural retrofits, wet-area waterproofing, and white-glove interior upgrades without the mess.',
+      'Comprehensive renovation services including structural work, interior upgrades, and property maintenance.',
   },
   {
     id: 'interior-design',
-    title: 'Interior Design',
+    title: 'Interior Design & Decoration',
     description:
-      'Concept-to-completion spaces, material boards',
-      // 3D visualization, and turnkey execution.
+      'Creative interior design solutions, space planning, and decoration services for modern living spaces.',
   },
 ]
 
@@ -314,9 +313,9 @@ export const projectCategories = [
 ]
 
 export const founder = {
-  name: 'Istiyak Ahmed Choudhary',
+  name: 'yasin chauhan',
   title: 'Founder & Design Lead',
-  bio: 'With a passion for design and a commitment to quality, Istiyak Ahmed Choudhary leads a team of talented professionals who are dedicated to delivering exceptional results.',
+  bio: 'With a passion for design and a commitment to quality, yasin chauhan leads a team of talented professionals who are dedicated to delivering exceptional results.',
   photo:
     '/Images/Founders/defman.jpg',
 }
@@ -362,7 +361,7 @@ export const contactCards = [
   {
     label: 'Office Address',
     value: company.address,
-    action: 'https://maps.app.goo.gl/wzqbvYvG8vGcopiZA',
+    action: 'https://maps.google.com/maps?q=2,+bachubhai+chawl,+rani+sati+marg,+mskrani+pada,+Malad(E),+Mumbai+-+400+097',
   },
 ]
 

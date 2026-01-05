@@ -12,7 +12,7 @@ const Footer = () => (
     <div className="container grid gap-10 py-12 md:grid-cols-3">
       <div className="space-y-4">
         <p className="font-heading text-2xl tracking-wide text-white">
-          Nisha Enterprises
+          perfect building contractor
         </p>
         <p className="text-sm text-gray-400">
           Premium residential construction and interior partners for
@@ -68,7 +68,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="border-t border-white/10 py-6 text-center text-xs text-gray-500">
-      © {new Date().getFullYear()} Nisha Enterprises. All rights reserved.
+      © {new Date().getFullYear()} perfect building contractor. All rights reserved.
     </div>
   </footer>
 )

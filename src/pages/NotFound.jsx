@@ -9,7 +9,7 @@ const NotFound = () => (
       The page drifted off-site
     </h1>
     <p className="max-w-md text-gray-600">
-      Please return to the homepage to continue exploring Nisha Enterprises.
+      Please return to the homepage to continue exploring perfect building contractor.
     </p>
     <Link
       to="/"

@@ -16,7 +16,7 @@ const Header = () => {
     <header className="sticky top-0 z-40 bg-white/90 backdrop-blur border-b border-black/5">
       <div className="container flex items-center justify-between py-4">
         <Link to="/" className="font-heading text-xl tracking-widest">
-          Nisha Enterprises
+          perfect building contractor
         </Link>
 
         <nav className="hidden md:flex items-center gap-8">

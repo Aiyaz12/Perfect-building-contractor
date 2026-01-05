@@ -44,13 +44,13 @@ const Contact = () => {
 
           <div className="overflow-hidden rounded-[32px] border border-black/5 shadow-soft">
             <iframe
-              title="Nisha Enterprises office location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d515.0964039913537!2d72.85543099006505!3d19.295823523487414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b033c02f5113%3A0x1a3b6ef6413a96f4!2sQamar%20Park%2C%20Bhayandar%20East%2C%20Mira%20Bhayandar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1764108578558!5m2!1sen!2sin"
+              title="perfect building contractor office location"
+              src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30146.32524500416!2d72.8390611193842!3d19.18250330318887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2%2C%20bachubhai%20chawl%2C%20rani%20sati%20marg%2C%20mskrani%20pada%2C%20Malad(E)%2C%20Mumbai%20-%20400%20097!5e0!3m2!1sen!2sin!4v1767587479704!5m2!1sen!2sin"
               width="100%"
               className="h-64 md:h-80"
               style={{ border: 0 }}
-              loading="lazy"
               allowFullScreen
+              loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             />
           </div>
