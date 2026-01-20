@@ -130,13 +130,13 @@ export const projectCategories = [
     thumbnail:
       '/Images/Residential/0.jpg',
     projects: [
-      {
-        id: 'res-1',
-        // title: 'Dv CELESTIA',
-        // caption: 'Boriwali(E), Mumbai',
-        image:
-          '/Images/Residential/001.jpg',
-      },
+      // {
+      //   id: 'res-1',
+      //   // title: 'Dv CELESTIA',
+      //   // caption: 'Boriwali(E), Mumbai',
+      //   image:
+      //     '/Images/Residential/001.jpg',
+      // },
       {
         id: 'res-2',
         // title: 'Shree Shashwat Tower',
