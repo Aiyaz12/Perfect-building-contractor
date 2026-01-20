@@ -124,100 +124,101 @@ export const services = [
 
 export const projectCategories = [
   {
-    id: 'commercial - and non-commercial',
-    title: 'Residential',
+    id: 'residential',
+    title: 'commercial - and non commercial',
     summary: 'Premium Residential Projects.',
     thumbnail:
       '/Images/Residential/0.jpg',
     projects: [
       {
         id: 'res-1',
-        title: 'Dv CELESTIA',
-        caption: 'Boriwali(E), Mumbai',
+        // title: 'Dv CELESTIA',
+        // caption: 'Boriwali(E), Mumbai',
         image:
-          '/Images/Residential/1.jpg',
+          '/Images/Residential/001.jpg',
       },
       {
         id: 'res-2',
-        title: 'Shree Shashwat Tower',
-        caption: 'Mira Road',
+        // title: 'Shree Shashwat Tower',
+        // caption: 'Mira Road',
         image:
-          '/Images/Residential/2.jpg',
+          '/Images/Residential/002.jpeg',
       },
-      {
-        id: 'res-3',
-        title: 'Fressia Heights',
-        caption: 'Dahisar(E)',
-        image:
-          '/Images/Residential/3.jpg',
-      },
-      {
-        id: 'res-4',
-        title: 'Fressia -  I',
-        caption: 'Dahisar(W)',
-        image:
-          '/Images/Residential/4.jpg',
-      }, {
-        id: 'res-5',
-        title: 'Kingston Annex',
-        caption: 'Vasai(W)',
-        image:
-          '/Images/Residential/5.jpg',
-      }, {
-        id: 'res-6',
-        title: 'Kingston Tower',
-        caption: 'Vasai(W)',
-        image:
-          '/Images/Residential/6.jpg',
-      }, {
-        id: 'res-7',
-        title: 'Shree Krishna Garden',
-        caption: 'Mira Road',
-        image:
-          '/Images/Residential/7.jpg',
-      }, {
-        id: 'res-8',
-        title: 'Shree Shashwat',
-        caption: 'Dahisar(E)',
-        image:
-          '/Images/Residential/8.jpg',
-      }, {
-        id: 'res-9',
-        title: 'Fressia - III',
-        caption: 'Dahisar(W)',
-        image:
-          '/Images/Residential/9.jpg',
-      }, {
-        id: 'res-10',
-        title: 'Fressia - II',
-        caption: 'Dahisar(W)',
-        image:
-          '/Images/Residential/10.jpg',
-      }, {
-          id: 'res-11',
-        title: 'UNICO INDUSTRIAL PARK',
-        caption: 'Vasai(E)',
-        image:
-          '/Images/Residential/11.jpg',
-      }, {
-        id: 'res-12',
-        title: 'Shree Shashwat',
-        caption: 'Mira Road',
-        image:
-          '/Images/Residential/12.jpg',
-      }, {
-            id: 'res-13',
-        title: 'Shree Shiv Shakti',
-        caption: 'Boriwali(W)',
-        image:
-          '/Images/Residential/13.jpg',
-      }, {
-            id: 'res-14',
-        title: 'Sterling',
-        caption: 'Dahisar(W)',
-        image:
-          '/Images/Residential/14.jpg',
-      },
+
+  //     {
+  //       id: 'res-3',
+  //       // title: 'Fressia Heights',
+  //       // caption: 'Dahisar(E)',
+  //       image:
+  //         '/Images/Residential/3.jpg',
+  //     },
+  //     {
+  //       id: 'res-4',
+  //       // title: 'Fressia -  I',
+  //       // caption: 'Dahisar(W)',
+  //       image:
+  //         '/Images/Residential/4.jpg',
+  //     }, {
+  //       id: 'res-5',
+  //       // title: 'Kingston Annex',
+  //       // caption: 'Vasai(W)',
+  //       image:
+  //         '/Images/Residential/5.jpg',
+  //     }, {
+  //       id: 'res-6',
+  //       // title: 'Kingston Tower',
+  //       // caption: 'Vasai(W)',
+  //       image:
+  //         '/Images/Residential/6.jpg',
+  //     }, {
+  //       id: 'res-7',
+  //       // title: 'Shree Krishna Garden',
+  //       // caption: 'Mira Road',
+  //       image:
+  //         '/Images/Residential/7.jpg',
+  //     }, {
+  //       id: 'res-8',
+  //       // title: 'Shree Shashwat',
+  //       // caption: 'Dahisar(E)',
+  //       image:
+  //         '/Images/Residential/8.jpg',
+  //     }, {
+  //       id: 'res-9',
+  //       // title: 'Fressia - III',
+  //       // caption: 'Dahisar(W)',
+  //       image:
+  //         '/Images/Residential/9.jpg',
+  //     }, {
+  //       id: 'res-10',
+  //       // title: 'Fressia - II',
+  //       // caption: 'Dahisar(W)',
+  //       image:
+  //         '/Images/Residential/10.jpg',
+  //     }, {
+  //         id: 'res-11',
+  //       // title: 'UNICO INDUSTRIAL PARK',
+  //       // caption: 'Vasai(E)',
+  //       image:
+  //         '/Images/Residential/11.jpg',
+  //     }, {
+  //       id: 'res-12',
+  //       // title: 'Shree Shashwat',
+  //       // caption: 'Mira Road',
+  //       image:
+  //         '/Images/Residential/12.jpg',
+  //     }, {
+  //           id: 'res-13',
+  //       // title: 'Shree Shiv Shakti',
+  //       // caption: 'Boriwali(W)',
+  //       image:
+  //         '/Images/Residential/13.jpg',
+  //     }, {
+  //           id: 'res-14',
+  //       // title: 'Sterling',
+  //       // caption: 'Dahisar(W)',
+  //       image:
+  //         '/Images/Residential/14.jpg',
+  //     },
     ],
   },
   {
@@ -277,6 +278,32 @@ export const projectCategories = [
         // caption: 'Indoor-outdoor dining space with live green wall.',
         image:
           '/Images/interiors/4.jpg',
+      },
+      {
+        id: 'int-4',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/004.jpeg',
+      },{
+        id: 'int-5',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/003.jpeg',
+      },{
+        id: 'int-6',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/002.jpeg',
+      },
+      {
+        id: 'int-6',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/001.jpeg',
       },
     ],
   },
