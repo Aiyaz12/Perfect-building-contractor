@@ -124,7 +124,7 @@ export const services = [
 
 export const projectCategories = [
   {
-    id: 'residential',
+    id: 'commercial - and non-commercial',
     title: 'Residential',
     summary: 'Premium Residential Projects.',
     thumbnail:
