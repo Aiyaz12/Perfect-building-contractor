@@ -3,7 +3,7 @@ export const company = {
   phone: '9820922102, 9022588243',
   whatsappLink: 'https://wa.me/919820922102?text=Hello%20perfect%20building%20contractor',
   email: 'perfectcontractor39@gmail.com',
-  address: '2, bachubhai chawl, rani sati marg, mskrani pada, Malad(E), Mumbai - 400 097',
+  address: '2, bachubhai chawl, rani sati marg, makrani pada, Malad(E), Mumbai - 400 097',
 }
 
 export const navigationLinks = [
